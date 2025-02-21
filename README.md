@@ -33,3 +33,7 @@ This repository contains Vivado projects for various digital systems, including 
 - FPGA design and implementation
 - Testbenches for verification
 
+
+# OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/e38ede8a-439b-4f85-b320-4238069d3df3)
